@@ -1,13 +1,27 @@
 # MY Resume
 
-![Your Photo](path-to-your-photo.jpg)
+# Data Scientist Resume
 
-## Name: John Doe  
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Photo on the left -->
+  <img src="path-to-your-photo.jpg" alt="Your Photo" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;"/>
+
+  <!-- Name and Links on the right -->
+  <div>
+    <div style="font-size: 24px; font-weight: bold;">John Doe</div>
+    <div>
+      <a href="https://linkedin.com/in/johndoe" style="margin-right: 10px;">LinkedIn</a>
+      <a href="https://github.com/johndoe">GitHub</a>
+    </div>
+  </div>
+</div>
+
 Location: City, Country  
 Email: johndoe@example.com  
-LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)  
-GitHub: [github.com/johndoe](https://github.com/johndoe)  
 Portfolio: [johndoe.com](https://johndoe.com)
+
+---
+
 
 ---
 
@@ -18,12 +32,11 @@ Experienced and results-driven Data Scientist with a strong foundation in statis
 
 ### Skills
 
-- **Programming:** Python, R, SQL
+- **Programming:** Python, SQL
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Machine Learning:** Supervised and Unsupervised Learning, Deep Learning, NLP, Time Series Analysis
-- **Big Data Tools:** Hadoop, Spark
 - **Data Visualization:** Tableau, Power BI
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL, PostgreSQL, Data warehousing Concepts
 - **Cloud Platforms:** AWS, Google Cloud
 - **Version Control:** Git, GitHub
 
@@ -63,11 +76,8 @@ Experienced and results-driven Data Scientist with a strong foundation in statis
 
 ### Education
 
-#### **Master of Science in Data Science**  
-*University of XYZ* | City, Country | 2019 - 2021
-
-#### **Bachelor of Science in Computer Science**  
-*University of ABC* | City, Country | 2015 - 2019
+#### **Bachelor of Science in Computer Science - Data Science**  
+*MVJ College of Engineering* | Banglore, India | 2022 - 2026
 
 ---
 
