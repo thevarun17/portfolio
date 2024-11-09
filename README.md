@@ -1,14 +1,14 @@
-# MY Resume
-
+#  VARUN KUMAR
+          
 <!-- Name centered and bold -->
 <div style="text-align: center; font-size: 24px; font-weight: bold; color: #003366;">
-  Varun Kumar
+                
 </div>
 
 <!-- Email and GitHub on the left -->
 <div style="margin-left: 20px;">
   <div style="font-size: 16px;">Email: varunkumar.connect@gmail.com</div>
-  <a href="https://github.com/johndoe" style="font-size: 16px;">GitHub</a>
+  <a href="https://github.com/thevarun17/portfolio/edit/main/README.md" style="font-size: 16px;">GitHub</a>
 </div>
 
 **Location:** Banglore, India  
@@ -73,9 +73,9 @@ Experienced and results-driven Data Scientist with a strong foundation in statis
 
 ## Certifications
 
-- **Certified Data Scientist** – Besant Technolgy
-- **AWS Certified Solutions Architect** – Amazon Web Services
-- **Machine Learning Specialization** – Besant Technology and MVJ College
+- **Certified Data Scientist** – Besant Technology
+- **Python for Data Science and AI Development** – By IBM
+- **Machine Learning Specialization** – Besant Technology 
 
 ---
 
