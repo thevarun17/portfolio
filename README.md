@@ -74,8 +74,9 @@ Experienced and results-driven Data Scientist with a strong foundation in statis
 ## Certifications
 
 - **Certified Data Scientist** – Besant Technology
-- **Python for Data Science and AI Development** – By IBM
-- **Machine Learning Specialization** – Besant Technology 
+- **Python for Data Science and AI Development** – [IBM](https://www.coursera.org/account/accomplishments/verify/QWUQNDKH58B3)
+- **Machine Learning Specialization** – Besant Technology
+- **Software Engineering Intern** - [hackerRAnk](https://www.hackerrank.com/certificates/aad1c3526280) 
 
 ---
 
